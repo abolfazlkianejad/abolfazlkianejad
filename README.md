@@ -1,16 +1,19 @@
-## Hi there 👋
+# Abolfazl Kianejad
 
-<!--
-**abolfazlkianejad/abolfazlkianejad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence and building intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests include:
+
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Artificial Intelligence (AI)
+- Neural Networks
+- Computer Vision
+- Natural Language Processing (NLP)
+- AI Research & Development
+
+I'm continuously learning, experimenting, and building projects to deepen my understanding of AI and contribute to the development of intelligent technologies.
+
+**My Goal:** To grow as an AI Engineer and build innovative AI-powered solutions.
